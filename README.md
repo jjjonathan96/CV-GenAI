@@ -1,4 +1,4 @@
-* Computer Vision based GenAI Projects *
+*Computer Vision based GenAI Projects*
 
 * AI-Powered Virtual Dressing Room
 * AI-Assisted Image Restoration and Inpainting
